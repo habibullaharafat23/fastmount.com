@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "#";
+var websiteLogo = "https://fastmount.com/wp-content/uploads/2023/06/Fastmount-Primary-Logo_tight-crop.png";
 
 var logoWidth = "50px";
 
